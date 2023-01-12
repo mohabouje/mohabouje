@@ -35,10 +35,8 @@ I am an active open-source contributor. I have personally been involved very int
 <strong>Github Statistics</strong>
 <br>
 
-<!-- My GitHub stats with buefy theme ❤️ -->
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mohabouje&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohabouje&layout=compact&theme=buefy" alt="languages" height="165">
-
+![Mo's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mohabouje&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohabouje&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
