@@ -22,8 +22,8 @@ I am an active open-source contributor. I have personally been involved very int
 <br />
 
 - 🔭 I’m currently working on [eDSP](https://github.com/mohabouje/edsp)
-- 🌱 I’m currently learning Go & Typescript
-- 🌱 I’m currently exploring Machine Learning and Artificial Intelligence for HFT and algo-trading
+- 🌱 I’m currently learning Go & Rust
+- 🌱 I’m currently exploring Machine Learning and Artificial Intelligence for HFT and Algorithmic Trading
 - 💬 Brainstorm with me over tech, algorithms, career, and music
 - 📫 How to reach me: mohabouje@gmail.com
 - 💬 Ask me about anything [here](https://github.com/mohabouje/mohabouje/issues)
