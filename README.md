@@ -43,4 +43,4 @@ I am an active open-source contributor. I have personally been involved very int
 
 
 [![Mohammed Boujemaoui StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4297146)](https://stackoverflow.com/users/4297146/mohabouje)
-[![Star History Chart](https://api.star-history.com/svg?repos=mohabouje/wintoast,mohabouje/edsp&type=Date)](https://star-history.com/#mohabouje/wintoast&mohabouje/edsp&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mohabouje/wintoast,mohabouje/edsp&type=Date)](https://www.star-history.com/#mohabouje/wintoast&mohabouje/edsp&Date)
