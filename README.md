@@ -32,15 +32,33 @@ I am an active open-source contributor. I have personally been involved very int
 <br />
 
 
-<strong>Github Statistics</strong>
-<br>
+## Github Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohabouje&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <a href="https://stackoverflow.com/users/4297146/mohabouje">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/4297146?style=for-the-badge&logo=stackoverflow&label=Reputation&color=F58025" alt="StackOverflow Reputation">
+    <img src="https://img.shields.io/badge/StackOverflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Profile">
+  </a>
 </p>
 
-<strong>Stackoverflow Statistics</strong>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohabouje&theme=default" alt="GitHub Profile Details">
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohabouje&theme=default" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohabouje&theme=default&utcOffset=1" alt="Productive Time">
+</p>
 
-[![Mohammed Boujemaoui StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4297146)](https://stackoverflow.com/users/4297146/mohabouje)
-[![Star History Chart](https://api.star-history.com/svg?repos=mohabouje/wintoast,mohabouje/edsp&type=Date)](https://www.star-history.com/#mohabouje/wintoast&mohabouje/edsp&Date)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohabouje&theme=default" alt="Repos per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohabouje&theme=default" alt="Most Commit Language">
+</p>
+
+## Star History
+
+<p align="center">
+  <a href="https://www.star-history.com/#mohabouje/wintoast&mohabouje/edsp&Date">
+    <img src="https://api.star-history.com/svg?repos=mohabouje/wintoast,mohabouje/edsp&type=Date" alt="Star History Chart">
+  </a>
+</p>
