@@ -31,9 +31,6 @@ I am an active open-source contributor. I have personally been involved very int
 <br />
 <br />
 
-
-## Github Statistics
-
 <p align="center">
   <a href="https://stackoverflow.com/users/4297146/mohabouje">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/4297146?style=for-the-badge&logo=stackoverflow&label=Reputation&color=F58025" alt="StackOverflow Reputation">
@@ -53,12 +50,4 @@ I am an active open-source contributor. I have personally been involved very int
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohabouje&theme=default" alt="Repos per Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohabouje&theme=default" alt="Most Commit Language">
-</p>
-
-## Star History
-
-<p align="center">
-  <a href="https://www.star-history.com/#mohabouje/wintoast&mohabouje/edsp&Date">
-    <img src="https://api.star-history.com/svg?repos=mohabouje/wintoast,mohabouje/edsp&type=Date" alt="Star History Chart">
-  </a>
 </p>
