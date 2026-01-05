@@ -39,12 +39,12 @@ I am an active open-source contributor. I have personally been involved very int
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohabouje&theme=default" alt="GitHub Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohabouje&theme=default" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohabouje&theme=default&utcOffset=1" alt="Productive Time">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohabouje&theme=default" alt="GitHub Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohabouje&theme=default&utcOffset=1" alt="Productive Time">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohabouje&theme=default" alt="GitHub Profile Details">
 </p>
 
 <p align="center">
